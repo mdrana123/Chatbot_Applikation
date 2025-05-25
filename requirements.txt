@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain-google-genai
+python-dotenv
+streamlit
+langchain_experimental
+pypdf
+rapidocr-onnxruntime
+protobuf
+ChatGoogleGenerativeAI
+create_retrieval_chain
